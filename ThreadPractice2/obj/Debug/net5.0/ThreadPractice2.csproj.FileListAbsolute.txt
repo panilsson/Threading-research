@@ -1,0 +1,15 @@
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/bin/Debug/net5.0/ThreadPractice2.deps.json
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/bin/Debug/net5.0/ThreadPractice2.runtimeconfig.json
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/bin/Debug/net5.0/ThreadPractice2.runtimeconfig.dev.json
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/bin/Debug/net5.0/ThreadPractice2.dll
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/bin/Debug/net5.0/ref/ThreadPractice2.dll
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/bin/Debug/net5.0/ThreadPractice2.pdb
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.csproj.AssemblyReference.cache
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.AssemblyInfoInputs.cache
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.AssemblyInfo.cs
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.csproj.CoreCompileInputs.cache
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.dll
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ref/ThreadPractice2.dll
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.pdb
+/Users/philip/RiderProjects/ThreadPractice2/ThreadPractice2/obj/Debug/net5.0/ThreadPractice2.genruntimeconfig.cache
